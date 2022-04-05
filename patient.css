@@ -1,0 +1,23 @@
+.heading
+{
+    border-bottom: 2px solid red;
+}
+input[type=text],input[type=number], input[type=tel],input[type=date],input[type=radio],
+textarea,select {
+    
+    font-size:20;
+    box-sizing: border-box;
+    /* display: inline-block; */
+    border: 2px solid gray;
+    padding: 8px 12px;
+    border-radius: 4px; 
+}
+.btn
+{
+    font-weight:bold;
+    font-size:15px;
+}
+p
+{
+    font-weight:bold;
+}
